@@ -1,2 +1,2 @@
-# MANI---joya-app
+# MANI-joya-app
 demo project 
